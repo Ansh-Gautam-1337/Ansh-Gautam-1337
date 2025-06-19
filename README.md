@@ -1,6 +1,7 @@
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://www.linkedin.com/in/ansh-gautam10110/)
 <h1 align="center">Hi 👋, I'm Ansh Gautam</h1>
 <h3 align="center">The exploit you can't see. The consequence you can't undo.</h3>
-<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7eq1FHnHTQhEP4MBzoB8WkSTjhsp6cWjnvoOuBHyAziXR0vDcA0MrnE1drC4zzXmvVc4b-u_NCGrL3-HH76RBBgIdu2hIUZmq7fSiUaC4VFLl6L-_5FgBNJ3KTouRz6TPz9NmSbjh4iORXcj885YDRKqPIETh1cW5vU_qmPKXvo2CjBxH4jPrUR4OfvQ/s728-rw-e365/nhi.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-gautam-1337&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-gautam-1337" /> </p>
