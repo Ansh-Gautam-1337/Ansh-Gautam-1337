@@ -26,3 +26,32 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh-gautam-1337&show_icons=true&locale=en" alt="ansh-gautam-1337" /></p>
+
+
+
+#### 1. Static analysis: What is the SHA256Sum of the HopHelper.exe?
+
+```bash
+F29C270068F865EF4A747E2683BFA07667BF64E768B38FBB9A2750A3D879CA33
+```
+
+#### 2. Static analysis: Within the strings of HopHelper.exe, a flag with the format THM{XXXXX} exists. What is that flag value? 
+#### Note, this can be found towards the bottom of the strings output.
+
+```bash
+THM{STRINGS_FOUND}
+```
+
+#### 3. Dynamic analysis: What registry value has the HopHelper.exe modified for persistence?
+#### Note: Provide the full path of the key that has been modified
+
+```bash
+HKU\S-1-5-21-1966530601-3185510712-10604624-1008\Software\Microsoft\Windows\CurrentVersion\Run\HopHelper
+```
+
+#### 4. Dynamic analysis: Filter the output of ProcMon for "TCP" operations. What network protocol is HopHelper.exe using to communicate?
+#### Make sure to have executed HopHelper.exe while ProcMon was open and capturing events.
+
+```bash
+http
+```
