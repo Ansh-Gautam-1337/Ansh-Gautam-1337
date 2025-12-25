@@ -26,11 +26,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh-gautam-1337&show_icons=true&locale=en" alt="ansh-gautam-1337" /></p>
-
-
-#### 4. Dynamic analysis: Filter the output of ProcMon for "TCP" operations. What network protocol is HopHelper.exe using to communicate?
-#### Make sure to have executed HopHelper.exe while ProcMon was open and capturing events.
-
-```bash
-http
-```
